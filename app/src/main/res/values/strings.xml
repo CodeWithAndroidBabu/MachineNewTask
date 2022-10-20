@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MachineTestForLlaBank</string>
+    <string name="search">Search</string>
+    <string name="img_carousel">img_carousel</string>
+    <string name="img_nature">img_nature</string>
+    <string name="no_data_found">No Data Found!</string>
+</resources>
